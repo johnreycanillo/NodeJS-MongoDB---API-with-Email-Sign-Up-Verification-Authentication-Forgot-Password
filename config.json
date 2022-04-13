@@ -1,5 +1,5 @@
 ﻿{
-    "connectionString": "mongodb://localhost/node-mongo-signup-verification-api",
+    "connectionString": "mongodb+srv://johnreycanillo:linagpang12345@canillocluster.qtv3j.mongodb.net/DataBase-API?retryWrites=true&w=majority",
     "secret": "linagpang@12345",
     "emailFrom": "info@node-mongo-signup-verification-api.com",
     "smtpOptions": {
