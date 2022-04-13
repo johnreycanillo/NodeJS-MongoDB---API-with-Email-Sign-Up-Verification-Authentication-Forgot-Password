@@ -3,7 +3,7 @@
     "secret": "linagpang@12345",
     "emailFrom": "info@node-mongo-signup-verification-api.com",
     "smtpOptions": {
-        "host": "smtp.gmail.email",
+        "host": "smtp.gmail.com",
         "port": 587,
         "auth": {
             "user": "johnreycanillo26@gmail.com",
