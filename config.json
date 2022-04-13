@@ -3,11 +3,11 @@
     "secret": "linagpang@12345",
     "emailFrom": "info@node-mongo-signup-verification-api.com",
     "smtpOptions": {
-        "host": "smtp.ethereal.email",
+        "host": "smtp.gmail.com",
         "port": 587,
         "auth": {
-            "user": "adriana.deckow2@ethereal.email",
-            "pass": "JtYb9745xaweyBzgnV"
+            "user": "johnreycanillo@gmail.com",
+            "pass": "linagpang12345"
         }
     }
 }
